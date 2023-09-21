@@ -1,0 +1,45 @@
+body{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sono', sans-serif;
+    color: #26577C;
+    width: 100%;
+}
+/* header */
+#header{
+  width: 100%;
+}
+/* top part */
+.Edrhick{
+    color: #26577C;
+}
+#title{
+    background-color: #EBE4D1;
+    padding-top: 100px;
+  }
+  .self-picture{
+    border-radius: 50%;
+    height: 200px;
+    margin-bottom: 15px;
+  }
+  /* Why hire me? */
+  .feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+/* footer and contacts */
+#footer{
+  background-color: #EBE4D1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#progress{
+  font-family: 'Oswald', sans-serif;
+color: #9A3B3B;
+}
+
+/* @media(max-width:480px) and (min-width:319px){
+  
+} */
